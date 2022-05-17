@@ -1,0 +1,16 @@
+{
+  "name": "simba",
+  "version": "1.0.0",
+  "description": "Simba is a YouTube API-based microservice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Haris Hambasic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "googleapis": "^100.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
